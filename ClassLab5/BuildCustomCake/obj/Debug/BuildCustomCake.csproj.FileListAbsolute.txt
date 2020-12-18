@@ -1,0 +1,18 @@
+C:\Users\Navpreet\Desktop\CustomCake\BuildCustomCake\bin\Debug\BuildCustomCake.exe.config
+C:\Users\Navpreet\Desktop\CustomCake\BuildCustomCake\bin\Debug\BuildCustomCake.exe
+C:\Users\Navpreet\Desktop\CustomCake\BuildCustomCake\bin\Debug\BuildCustomCake.pdb
+C:\Users\Navpreet\Desktop\CustomCake\BuildCustomCake\obj\Debug\BuildCustomCake.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\CustomCake\BuildCustomCake\obj\Debug\BuildCustomCake.frmCustomCake.resources
+C:\Users\Navpreet\Desktop\CustomCake\BuildCustomCake\obj\Debug\BuildCustomCake.Properties.Resources.resources
+C:\Users\Navpreet\Desktop\CustomCake\BuildCustomCake\obj\Debug\BuildCustomCake.csproj.GenerateResource.Cache
+C:\Users\Navpreet\Desktop\CustomCake\BuildCustomCake\obj\Debug\BuildCustomCake.exe
+C:\Users\Navpreet\Desktop\CustomCake\BuildCustomCake\obj\Debug\BuildCustomCake.pdb
+C:\Users\Navpreet\Desktop\Lab05 - CustomCake\BuildCustomCake\bin\Debug\BuildCustomCake.exe.config
+C:\Users\Navpreet\Desktop\Lab05 - CustomCake\BuildCustomCake\obj\Debug\BuildCustomCake.exe
+C:\Users\Navpreet\Desktop\Lab05 - CustomCake\BuildCustomCake\obj\Debug\BuildCustomCake.pdb
+C:\Users\npaak_000\Desktop\framework\Lab05 - CustomCake\BuildCustomCake\bin\Debug\BuildCustomCake.exe.config
+C:\Users\npaak_000\Desktop\framework\Lab05 - CustomCake\BuildCustomCake\obj\Debug\BuildCustomCake.exe
+C:\Users\npaak_000\Desktop\framework\Lab05 - CustomCake\BuildCustomCake\obj\Debug\BuildCustomCake.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab5\BuildCustomCake\bin\Debug\BuildCustomCake.exe.config
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab5\BuildCustomCake\obj\Debug\BuildCustomCake.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab5\BuildCustomCake\obj\Debug\BuildCustomCake.pdb

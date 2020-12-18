@@ -1,0 +1,10 @@
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\BusinessClasses\bin\Debug\BusinessClasses.dll
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\BusinessClasses\bin\Debug\BusinessClasses.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\BusinessClasses\obj\Debug\BusinessClasses.csprojResolveAssemblyReference.cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\BusinessClasses\obj\Debug\BusinessClasses.dll
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\BusinessClasses\obj\Debug\BusinessClasses.pdb
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\BusinessClasses\bin\Debug\BusinessClasses.dll
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\BusinessClasses\bin\Debug\BusinessClasses.pdb
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\BusinessClasses\obj\Debug\BusinessClasses.csprojResolveAssemblyReference.cache
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\BusinessClasses\obj\Debug\BusinessClasses.dll
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\BusinessClasses\obj\Debug\BusinessClasses.pdb

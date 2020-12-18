@@ -1,0 +1,16 @@
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab3\ClassLab3\bin\Release\Cake Orders.exe.config
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab3\ClassLab3\bin\Release\Cake Orders.exe.manifest
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab3\ClassLab3\bin\Release\Cake Orders.application
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab3\ClassLab3\bin\Release\Cake Orders.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab3\ClassLab3\bin\Release\Cake Orders.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab3\ClassLab3\obj\Release\ClassLab3.frmCake.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab3\ClassLab3\obj\Release\ClassLab3.Properties.Resources.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab3\ClassLab3\obj\Release\ClassLab3.csproj.GenerateResource.Cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab3\ClassLab3\obj\Release\Cake Orders.exe.manifest
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab3\ClassLab3\obj\Release\Cake Orders.application
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab3\ClassLab3\obj\Release\Cake Orders.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab3\ClassLab3\obj\Release\Cake Orders.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab3\ClassLab3\obj\Release\ClassLab3.csprojResolveAssemblyReference.cache
+C:\Users\Yoshiba\Desktop\C#\ClassLab3\ClassLab3\bin\Release\Cake Orders.exe.config
+C:\Users\Yoshiba\Desktop\C#\ClassLab3\ClassLab3\obj\Release\Cake Orders.exe
+C:\Users\Yoshiba\Desktop\C#\ClassLab3\ClassLab3\obj\Release\Cake Orders.pdb

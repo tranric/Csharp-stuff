@@ -1,0 +1,20 @@
+D:\Humber\CPAN C#\Learning_Materials_Storage\week07\Lab 7\CakeClassLibrary\bin\Debug\CakeClassLibrary.dll
+D:\Humber\CPAN C#\Learning_Materials_Storage\week07\Lab 7\CakeClassLibrary\bin\Debug\CakeClassLibrary.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week07\Lab 7\CakeClassLibrary\obj\Debug\CakeClassLibrary.csprojResolveAssemblyReference.cache
+D:\Humber\CPAN C#\Learning_Materials_Storage\week07\Lab 7\CakeClassLibrary\obj\Debug\CakeClassLibrary.dll
+D:\Humber\CPAN C#\Learning_Materials_Storage\week07\Lab 7\CakeClassLibrary\obj\Debug\CakeClassLibrary.pdb
+C:\Users\Navpreet\Desktop\Lab 7\CakeClassLibrary\bin\Debug\CakeClassLibrary.dll
+C:\Users\Navpreet\Desktop\Lab 7\CakeClassLibrary\bin\Debug\CakeClassLibrary.pdb
+C:\Users\Navpreet\Desktop\Lab 7\CakeClassLibrary\obj\Debug\CakeClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Navpreet\Desktop\Lab 7\CakeClassLibrary\obj\Debug\CakeClassLibrary.dll
+C:\Users\Navpreet\Desktop\Lab 7\CakeClassLibrary\obj\Debug\CakeClassLibrary.pdb
+C:\Users\npaak_000\Desktop\Lab 7\CakeClassLibrary\bin\Debug\CakeClassLibrary.dll
+C:\Users\npaak_000\Desktop\Lab 7\CakeClassLibrary\bin\Debug\CakeClassLibrary.pdb
+C:\Users\npaak_000\Desktop\Lab 7\CakeClassLibrary\obj\Debug\CakeClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\npaak_000\Desktop\Lab 7\CakeClassLibrary\obj\Debug\CakeClassLibrary.dll
+C:\Users\npaak_000\Desktop\Lab 7\CakeClassLibrary\obj\Debug\CakeClassLibrary.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab7\CakeClassLibrary\bin\Debug\CakeClassLibrary.dll
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab7\CakeClassLibrary\bin\Debug\CakeClassLibrary.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab7\CakeClassLibrary\obj\Debug\CakeClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab7\CakeClassLibrary\obj\Debug\CakeClassLibrary.dll
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab7\CakeClassLibrary\obj\Debug\CakeClassLibrary.pdb

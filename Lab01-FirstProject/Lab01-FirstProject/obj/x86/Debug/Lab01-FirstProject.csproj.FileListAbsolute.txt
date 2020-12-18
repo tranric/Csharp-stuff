@@ -1,0 +1,8 @@
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Lab01-FirstProject\Lab01-FirstProject\bin\Debug\Lab01-FirstProject.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Lab01-FirstProject\Lab01-FirstProject\bin\Debug\Lab01-FirstProject.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Lab01-FirstProject\Lab01-FirstProject\obj\x86\Debug\Lab01-FirstProject.csprojResolveAssemblyReference.cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Lab01-FirstProject\Lab01-FirstProject\obj\x86\Debug\Lab01_FirstProject.Form1.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Lab01-FirstProject\Lab01-FirstProject\obj\x86\Debug\Lab01_FirstProject.Properties.Resources.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Lab01-FirstProject\Lab01-FirstProject\obj\x86\Debug\Lab01-FirstProject.csproj.GenerateResource.Cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Lab01-FirstProject\Lab01-FirstProject\obj\x86\Debug\Lab01-FirstProject.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Lab01-FirstProject\Lab01-FirstProject\obj\x86\Debug\Lab01-FirstProject.pdb

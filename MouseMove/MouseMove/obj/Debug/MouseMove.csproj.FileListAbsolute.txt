@@ -1,0 +1,9 @@
+C:\Users\Nickolaus\Documents\Projects\Frameworks\MouseMove\MouseMove\bin\Debug\MouseMove.exe.config
+C:\Users\Nickolaus\Documents\Projects\Frameworks\MouseMove\MouseMove\bin\Debug\MouseMove.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\MouseMove\MouseMove\bin\Debug\MouseMove.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\MouseMove\MouseMove\obj\Debug\MouseMove.csprojResolveAssemblyReference.cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\MouseMove\MouseMove\obj\Debug\MouseMove.frmMouseMove.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\MouseMove\MouseMove\obj\Debug\MouseMove.Properties.Resources.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\MouseMove\MouseMove\obj\Debug\MouseMove.csproj.GenerateResource.Cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\MouseMove\MouseMove\obj\Debug\MouseMove.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\MouseMove\MouseMove\obj\Debug\MouseMove.pdb

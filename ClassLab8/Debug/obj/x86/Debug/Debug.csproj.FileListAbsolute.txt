@@ -1,0 +1,51 @@
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging After Fixes\Debug\obj\x86\Debug\Debug.Form1.resources
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging After Fixes\Debug\obj\x86\Debug\Debug.Properties.Resources.resources
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging After Fixes\Debug\obj\x86\Debug\Debug.csproj.GenerateResource.Cache
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging After Fixes\Debug\bin\Debug\Debug.exe
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging After Fixes\Debug\bin\Debug\Debug.pdb
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging After Fixes\Debug\obj\x86\Debug\Debug.exe
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging After Fixes\Debug\obj\x86\Debug\Debug.pdb
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.exe
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.pdb
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\bin\Debug\Debug.exe
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\bin\Debug\Debug.pdb
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.Form1.resources
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.Properties.Resources.resources
+C:\CPAN223W13\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.csproj.GenerateResource.Cache
+C:\CPAN151W14\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.exe
+C:\CPAN151W14\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.pdb
+C:\CPAN151W14\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\bin\Debug\Debug.exe.config
+C:\CPAN223W14\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\bin\Debug\Debug.exe.config
+C:\CPAN223W14\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.exe
+C:\CPAN223W14\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.pdb
+C:\CPAN223W14\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\bin\Debug\Debug.exe
+C:\CPAN223W14\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\bin\Debug\Debug.pdb
+C:\CPAN223W14\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.Form1.resources
+C:\CPAN223W14\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.Properties.Resources.resources
+C:\CPAN223W14\Learning Materials\week08\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.csproj.GenerateResource.Cache
+C:\Users\Navpreet\Desktop\Week08-Debugging Almost Fixed\Debug\bin\Debug\Debug.exe.config
+C:\Users\Navpreet\Desktop\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.exe
+C:\Users\Navpreet\Desktop\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.pdb
+C:\Users\Navpreet\Desktop\Week08-Debugging Almost Fixed\Debug\bin\Debug\Debug.exe
+C:\Users\Navpreet\Desktop\Week08-Debugging Almost Fixed\Debug\bin\Debug\Debug.pdb
+C:\Users\Navpreet\Desktop\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.Form1.resources
+C:\Users\Navpreet\Desktop\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.Properties.Resources.resources
+C:\Users\Navpreet\Desktop\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.csproj.GenerateResource.Cache
+C:\Users\npaak_000\Desktop\Week08-Debugging Almost Fixed\Debug\bin\Debug\Debug.exe.config
+C:\Users\npaak_000\Desktop\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.exe
+C:\Users\npaak_000\Desktop\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.pdb
+C:\Users\npaak_000\Desktop\Week08-Debugging Almost Fixed\Debug\bin\Debug\Debug.exe
+C:\Users\npaak_000\Desktop\Week08-Debugging Almost Fixed\Debug\bin\Debug\Debug.pdb
+C:\Users\npaak_000\Desktop\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.Form1.resources
+C:\Users\npaak_000\Desktop\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.Properties.Resources.resources
+C:\Users\npaak_000\Desktop\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.csproj.GenerateResource.Cache
+C:\Users\npaak_000\Desktop\Week08-Debugging Almost Fixed\Debug\obj\x86\Debug\Debug.csprojResolveAssemblyReference.cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab8\Debug\bin\Debug\Debug.exe.config
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab8\Debug\obj\x86\Debug\Debug.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab8\Debug\obj\x86\Debug\Debug.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab8\Debug\bin\Debug\Debug.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab8\Debug\bin\Debug\Debug.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab8\Debug\obj\x86\Debug\Debug.csprojResolveAssemblyReference.cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab8\Debug\obj\x86\Debug\Debug.Form1.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab8\Debug\obj\x86\Debug\Debug.Properties.Resources.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab8\Debug\obj\x86\Debug\Debug.csproj.GenerateResource.Cache

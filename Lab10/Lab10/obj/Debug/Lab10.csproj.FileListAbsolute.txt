@@ -1,0 +1,9 @@
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\obj\Debug\Lab10.Form1.resources
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\obj\Debug\Lab10.Properties.Resources.resources
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\obj\Debug\Lab10.csproj.GenerateResource.Cache
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\obj\Debug\Lab10.pdb
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache

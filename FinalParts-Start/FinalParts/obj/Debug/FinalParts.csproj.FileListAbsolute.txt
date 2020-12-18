@@ -1,0 +1,33 @@
+D:\Humber\CPAN C#\Final test\Final-2015\FinalParts-Start\FinalParts\bin\Debug\FinalParts.exe.config
+D:\Humber\CPAN C#\Final test\Final-2015\FinalParts-Start\FinalParts\bin\Debug\FinalParts.exe
+D:\Humber\CPAN C#\Final test\Final-2015\FinalParts-Start\FinalParts\bin\Debug\FinalParts.pdb
+D:\Humber\CPAN C#\Final test\Final-2015\FinalParts-Start\FinalParts\obj\Debug\FinalParts.csprojResolveAssemblyReference.cache
+D:\Humber\CPAN C#\Final test\Final-2015\FinalParts-Start\FinalParts\obj\Debug\FinalParts.frmSelect.resources
+D:\Humber\CPAN C#\Final test\Final-2015\FinalParts-Start\FinalParts\obj\Debug\FinalParts.Properties.Resources.resources
+D:\Humber\CPAN C#\Final test\Final-2015\FinalParts-Start\FinalParts\obj\Debug\FinalParts.csproj.GenerateResource.Cache
+D:\Humber\CPAN C#\Final test\Final-2015\FinalParts-Start\FinalParts\obj\Debug\FinalParts.exe
+D:\Humber\CPAN C#\Final test\Final-2015\FinalParts-Start\FinalParts\obj\Debug\FinalParts.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\FinalParts\bin\Debug\FinalParts.exe.config
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\FinalParts\obj\Debug\FinalParts.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\FinalParts\obj\Debug\FinalParts.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\FinalParts\bin\Debug\FinalParts.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\FinalParts\bin\Debug\FinalParts.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\FinalParts\bin\Debug\BusinessClasses.dll
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\FinalParts\bin\Debug\BusinessClasses.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\FinalParts\obj\Debug\FinalParts.csprojResolveAssemblyReference.cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\FinalParts\obj\Debug\FinalParts.frmSelect.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\FinalParts\obj\Debug\FinalParts.Properties.Resources.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\FinalParts\obj\Debug\FinalParts.csproj.GenerateResource.Cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\FinalParts-Start\FinalParts\obj\Debug\FinalParts.frmUpdate.resources
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\FinalParts\bin\Debug\FinalParts.exe.config
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\FinalParts\obj\Debug\FinalParts.exe
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\FinalParts\obj\Debug\FinalParts.pdb
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\FinalParts\bin\Debug\FinalParts.exe
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\FinalParts\bin\Debug\FinalParts.pdb
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\FinalParts\bin\Debug\BusinessClasses.dll
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\FinalParts\bin\Debug\BusinessClasses.pdb
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\FinalParts\obj\Debug\FinalParts.csprojResolveAssemblyReference.cache
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\FinalParts\obj\Debug\FinalParts.frmSelect.resources
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\FinalParts\obj\Debug\FinalParts.frmUpdate.resources
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\FinalParts\obj\Debug\FinalParts.Properties.Resources.resources
+C:\Users\Yoshiba\Desktop\C#\FinalParts-Start\FinalParts\obj\Debug\FinalParts.csproj.GenerateResource.Cache

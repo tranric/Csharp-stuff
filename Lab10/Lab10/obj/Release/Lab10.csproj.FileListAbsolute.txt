@@ -1,0 +1,12 @@
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\bin\Release\Lab10.exe.config
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\bin\Release\Lab10.exe
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\bin\Release\Lab10.pdb
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\obj\Release\Lab10.csprojResolveAssemblyReference.cache
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\obj\Release\Lab10.Form1.resources
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\obj\Release\Lab10.Properties.Resources.resources
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\obj\Release\Lab10.csproj.GenerateResource.Cache
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\obj\Release\Lab10.exe
+C:\Users\npaak_000\Desktop\Framwork\Lab10\Lab10\obj\Release\Lab10.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Lab10\Lab10\bin\Release\Lab10.exe.config
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Lab10\Lab10\obj\Release\Lab10.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Lab10\Lab10\obj\Release\Lab10.pdb

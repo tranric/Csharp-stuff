@@ -1,0 +1,10 @@
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Totally not a virus\Totally not a virus\bin\Debug\Totally not a virus.exe.config
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Totally not a virus\Totally not a virus\bin\Debug\Totally not a virus.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Totally not a virus\Totally not a virus\bin\Debug\Totally not a virus.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Totally not a virus\Totally not a virus\bin\Debug\Totally not a virus.xml
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Totally not a virus\Totally not a virus\obj\Debug\Totally_not_a_virus.frm1.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Totally not a virus\Totally not a virus\obj\Debug\Totally_not_a_virus.Resources.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Totally not a virus\Totally not a virus\obj\Debug\Totally not a virus.vbproj.GenerateResource.Cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Totally not a virus\Totally not a virus\obj\Debug\Totally not a virus.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Totally not a virus\Totally not a virus\obj\Debug\Totally not a virus.xml
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Totally not a virus\Totally not a virus\obj\Debug\Totally not a virus.pdb

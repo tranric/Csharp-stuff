@@ -1,0 +1,10 @@
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Branch Sales\Project\bin\Release\Project.exe.config
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Branch Sales\Project\bin\Release\Project.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Branch Sales\Project\bin\Release\Project.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Branch Sales\Project\obj\Release\Project.frmBranch.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Branch Sales\Project\obj\Release\Project.Form2.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Branch Sales\Project\obj\Release\Project.Properties.Resources.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Branch Sales\Project\obj\Release\Project.csproj.GenerateResource.Cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Branch Sales\Project\obj\Release\Project.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Branch Sales\Project\obj\Release\Project.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Branch Sales\Project\obj\Release\Project.csprojResolveAssemblyReference.cache

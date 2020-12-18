@@ -1,0 +1,9 @@
+C:\Users\Nickolaus\Documents\Projects\Frameworks\XMLDOM1\XMLDOM1\bin\Debug\XMLDOM1.exe.config
+C:\Users\Nickolaus\Documents\Projects\Frameworks\XMLDOM1\XMLDOM1\bin\Debug\XMLDOM1.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\XMLDOM1\XMLDOM1\bin\Debug\XMLDOM1.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\XMLDOM1\XMLDOM1\obj\Debug\XMLDOM1.csprojResolveAssemblyReference.cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\XMLDOM1\XMLDOM1\obj\Debug\XMLDOM1.Form1.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\XMLDOM1\XMLDOM1\obj\Debug\XMLDOM1.Properties.Resources.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\XMLDOM1\XMLDOM1\obj\Debug\XMLDOM1.csproj.GenerateResource.Cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\XMLDOM1\XMLDOM1\obj\Debug\XMLDOM1.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\XMLDOM1\XMLDOM1\obj\Debug\XMLDOM1.pdb

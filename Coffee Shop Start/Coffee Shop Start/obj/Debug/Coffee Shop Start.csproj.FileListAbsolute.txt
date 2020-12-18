@@ -1,0 +1,20 @@
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop Start\Coffee Shop Start\bin\Debug\Coffee Shop Start.exe.config
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop Start\Coffee Shop Start\bin\Debug\Coffee Shop Start.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop Start\Coffee Shop Start\bin\Debug\Coffee Shop Start.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop Start\Coffee Shop Start\obj\Debug\Coffee_Shop_Start.Form1.resources
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop Start\Coffee Shop Start\obj\Debug\Coffee_Shop_Start.Properties.Resources.resources
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop Start\Coffee Shop Start\obj\Debug\Coffee Shop Start.csproj.GenerateResource.Cache
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop Start\Coffee Shop Start\obj\Debug\Coffee Shop Start.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Coffee Shop Start\Coffee Shop Start\obj\Debug\Coffee Shop Start.pdb
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Week01-Demos\Coffee Shop Start\Coffee Shop Start\bin\Debug\Coffee Shop Start.exe.config
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Week01-Demos\Coffee Shop Start\Coffee Shop Start\obj\Debug\Coffee Shop Start.exe
+D:\Humber\CPAN C#\Learning_Materials_Storage\week01\Week01-Demos\Coffee Shop Start\Coffee Shop Start\obj\Debug\Coffee Shop Start.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Coffee Shop Start\Coffee Shop Start\bin\Debug\Coffee Shop Start.exe.config
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Coffee Shop Start\Coffee Shop Start\obj\Debug\Coffee Shop Start.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Coffee Shop Start\Coffee Shop Start\obj\Debug\Coffee Shop Start.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Coffee Shop Start\Coffee Shop Start\bin\Debug\Coffee Shop Start.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Coffee Shop Start\Coffee Shop Start\bin\Debug\Coffee Shop Start.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Coffee Shop Start\Coffee Shop Start\obj\Debug\Coffee Shop Start.csprojResolveAssemblyReference.cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Coffee Shop Start\Coffee Shop Start\obj\Debug\Coffee_Shop_Start.Form1.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Coffee Shop Start\Coffee Shop Start\obj\Debug\Coffee_Shop_Start.Properties.Resources.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\Coffee Shop Start\Coffee Shop Start\obj\Debug\Coffee Shop Start.csproj.GenerateResource.Cache

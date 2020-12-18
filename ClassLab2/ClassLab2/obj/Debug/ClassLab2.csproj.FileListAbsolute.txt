@@ -1,0 +1,9 @@
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab2\ClassLab2\bin\Debug\ClassLab2.exe.config
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab2\ClassLab2\bin\Debug\ClassLab2.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab2\ClassLab2\bin\Debug\ClassLab2.pdb
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab2\ClassLab2\obj\Debug\ClassLab2.csprojResolveAssemblyReference.cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab2\ClassLab2\obj\Debug\ClassLab2.Form1.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab2\ClassLab2\obj\Debug\ClassLab2.Properties.Resources.resources
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab2\ClassLab2\obj\Debug\ClassLab2.csproj.GenerateResource.Cache
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab2\ClassLab2\obj\Debug\ClassLab2.exe
+C:\Users\Nickolaus\Documents\Projects\Frameworks\ClassLab2\ClassLab2\obj\Debug\ClassLab2.pdb
